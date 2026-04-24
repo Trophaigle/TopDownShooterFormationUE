@@ -49,7 +49,7 @@ This structure is fundamental to building scalable gameplay systems.
 The gameplay loop includes:
 - Player movement (top-down camera perspective)
 - Shooting mechanics
-- Basic enemy interactions 
+- Basic enemy interactions (AI - NavMesh)
 - Interaction with the environment
 
 Implemented primarily using:
