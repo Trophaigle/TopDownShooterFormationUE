@@ -6,6 +6,8 @@ The project is based on the following training course:
 👉 https://dev.epicgames.com/community/learning/tutorials/nzxl/apprendre-unreal-engine-5-de-a-a-z-formation-debutants  
 by Evans Bohl, available on :contentReference[oaicite:0]{index=0} learning platform.
 
+Video Demo: https://youtu.be/FtMCvptPBls
+
 ---
 
 ## 📌 Project Overview
