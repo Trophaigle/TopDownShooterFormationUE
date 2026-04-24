@@ -10,6 +10,8 @@ by Evans Bohl, available on :contentReference[oaicite:0]{index=0} learning platf
 
 ## 📌 Project Overview
 
+https://private-user-images.githubusercontent.com/153461032/583277692-dc2979c0-b4e0-4c0e-b668-7194a0420c08.mp4
+
 This project is not just a simple beginner tutorial, but a **deep exploration of Unreal Engine 5 fundamentals and production workflows**.
 
 It covers essential game development systems such as:
