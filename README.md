@@ -110,8 +110,6 @@ A major part of the project relies on Blueprints:
 - Character behavior
 - Event-driven programming model
 
-Blueprints allowed rapid iteration without C++.
-
 ---
 
 ## 🧬 Inheritance & Interfaces
