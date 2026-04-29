@@ -25,6 +25,7 @@ It covers essential game development systems such as:
 - Performance considerations
 - Animation systems
 - Deployment pipeline
+- C++ (custom Blueprints)
 
 The final result is a **fully playable Top Down Shooter prototype**.
 
